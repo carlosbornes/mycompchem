@@ -1,4 +1,4 @@
-# MyCompChemistry
+# MyCompChem
 This repository contains scripts I've written over the years to make my computational chemistry workflows a bit more manageable. Since I suck at coding, some might be overly complicated but they work for me. But of course, if you have any suggestions on how to improve them go ahead.
 
 While the main point of this repository is that I don’t lose my scripts (which happens more often than I like to admit 🤦), feel free to use them at your own risk.
