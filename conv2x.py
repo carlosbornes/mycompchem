@@ -11,11 +11,8 @@ else:
     # Read name of the output file from the command line
     output_file = sys.argv[2]
 
-    # Read trajectory from the input file
-    traj = read(input_file, index = ':')
-
-    # Select the last frame of the trajectory
-    last = traj[-1]
+    # Read last frame of the trajectory
+    last = read(input_file, index = '-1')
 
     # Write the last frame to the output file
     write(output_file, last)
